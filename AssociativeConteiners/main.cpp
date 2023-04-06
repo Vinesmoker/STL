@@ -28,6 +28,7 @@ void main()
 	{
 		cout << it->first << " - " << it->second << endl;
 	}
+
 #endif // STL_MAP
 
 }
